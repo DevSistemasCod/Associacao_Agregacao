@@ -1,7 +1,7 @@
 package entidades;
 
 public class Produto {
-	private int identificacao;
+    private int identificacao;
     private String nome;
     private String descricao;
 
