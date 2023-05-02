@@ -7,7 +7,7 @@ Ao final faça uma classe de teste para validar a relação entre as entidades d
  
 ----
 
-2) Implemente uma classe chamada Endereco com os seguintes atributos, cidade (String), bairro(String) nome da rua(String), numero da casa(int), CEP (int), estado(String) e pais(String), um construtor que utilize todos os parâmetros das classe, crie também os métodos gets e sets, assim como o método toString() para a classe Endereco.  
+2) Implemente uma classe chamada Endereco com os seguintes atributos, cidade(String), bairro(String) nome da rua(String), numero da casa(int), CEP(int), estado(String) e pais(String), um construtor que utilize todos os parâmetros das classe, crie também os métodos gets e sets, assim como o método toString() para a classe Endereco.  
    Implemente também a classe Pessoa com os seguintes atributos, nome(String), idade(int), identificacao(int), endereco(Endereco), crie um construtor que utilize todos os parâmetros da classe, crie também os métodos gets e sets, assim como o método toString() para a classe Pessoa.
 
  Feito isso crie uma classe para validar a relação entre as entidades codificadas anteriormente.
