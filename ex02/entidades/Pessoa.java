@@ -2,9 +2,9 @@ package entidades;
 
 public class Pessoa {
 	 private String nome;
-	    private int idade;
-	    private int identificacao;
-	    private Endereco endereco;
+	 private int idade;
+	 private int identificacao;
+	 private Endereco endereco;
 	    
 	    public Pessoa(String nome, int idade, int identificacao, Endereco endereco) {
 	        this.nome = nome;
