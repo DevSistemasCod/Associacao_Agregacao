@@ -5,8 +5,8 @@ import entidades.Autor;
 import entidades.Livro;
 
 public class Principal {
-	public static void main(String[] args) {
-		// Criação do autor
+     public static void main(String[] args) {
+	// Criação do autor
         Autor autor = new Autor("José de Alencar", 48, "Fortaleza, Brasil");
         
         // Criação da editora
@@ -17,5 +17,5 @@ public class Principal {
         
         // Exibindo informações do livro
         System.out.println(livro);
-	}
+    }
 }
