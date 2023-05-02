@@ -1,7 +1,7 @@
 package entidades;
 
 public class ItemDeLinha {
-	private int identificacao;
+    private int identificacao;
     private int quantidade;
     private Produto produto;
 
