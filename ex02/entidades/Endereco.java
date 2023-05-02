@@ -2,12 +2,12 @@ package entidades;
 
 public class Endereco {
 	 private String cidade;
-	    private String bairro;
-	    private String nomeRua;
-	    private int numeroCasa;
-	    private int cep;
-	    private String estado;
-	    private String pais;
+	 private String bairro;
+	 private String nomeRua;
+	 private int numeroCasa;
+	 private int cep;
+	 private String estado;
+	 private String pais;
 	    
 	    public Endereco(String cidade, String bairro, String nomeRua, int numeroCasa, int cep, String estado, String pais) {
 	        this.cidade = cidade;
